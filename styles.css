@@ -54,6 +54,10 @@ header .container{
     color: #48BB78;
 }
 
+.learn-about {
+    padding: 1em;
+}
+
 .cards{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
